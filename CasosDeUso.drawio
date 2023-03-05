@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T08:12:21.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.23" etag="qT6Wg3d2iPdJQ0RdyC7a" type="github"><diagram name="Page-1" id="xl4MJ88EjeMnw6IJl3ZT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-05T08:46:21.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="X_pW9nIvCCm5RUn3u-VL" version="21.0.2" type="github">
+  <diagram name="Page-1" id="xl4MJ88EjeMnw6IJl3ZT">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="a2OSM05QCFBGGNWs0fvZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a2OSM05QCFBGGNWs0fvZ-1" target="a2OSM05QCFBGGNWs0fvZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2OSM05QCFBGGNWs0fvZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a2OSM05QCFBGGNWs0fvZ-1" target="a2OSM05QCFBGGNWs0fvZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2OSM05QCFBGGNWs0fvZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a2OSM05QCFBGGNWs0fvZ-1" target="a2OSM05QCFBGGNWs0fvZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2OSM05QCFBGGNWs0fvZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a2OSM05QCFBGGNWs0fvZ-1" target="a2OSM05QCFBGGNWs0fvZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2OSM05QCFBGGNWs0fvZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a2OSM05QCFBGGNWs0fvZ-1" target="a2OSM05QCFBGGNWs0fvZ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2OSM05QCFBGGNWs0fvZ-1" value="RRHH" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2OSM05QCFBGGNWs0fvZ-2" value="CRUD empresas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a2OSM05QCFBGGNWs0fvZ-3" value="CRUD empleados" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a2OSM05QCFBGGNWs0fvZ-4" value="CRUD proyectos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a2OSM05QCFBGGNWs0fvZ-8" value="Crear informe sobre cumplimiento de horas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a2OSM05QCFBGGNWs0fvZ-10" value="Acceder datos marcajes empleados" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a2OSM05QCFBGGNWs0fvZ-12" value="Empleado" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
